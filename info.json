@@ -1,0 +1,17 @@
+{
+  "name": "USDTX Token",
+  "symbol": "USDTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "USDTX is a decentralized stable token aiming to bridge liquidity across platforms.",
+  "website": "https://x.com/EthereumUSDTX",
+  "explorer": "https://etherscan.io/token/0xcF71Aa7F95e67063D5e361550fDb54949952FbD2",
+  "status": "active",
+  "id": "usdtx",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/EthereumUSDTX"
+    }
+  ]
+}
